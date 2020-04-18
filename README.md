@@ -1,1 +1,1 @@
-Simple pet-project in ES5
+Without dependence
